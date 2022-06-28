@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    justify-content: center;
+}
+main{
+    justify-content: center;
+}
+#div-header{
+    width: 1920px;
+    height: 1024px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFD52F;
+    top: 0px;
+}
+
+#title-portifolio{
+    color: #E650A0;
+    font-size: 220px;
+    font-family: 'SK Pupok';
+}
+
+#div-about-me{
+    width: 1920px;
+    height: 1804px;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFBEC;
+
+}
+#div-portifolio{
+    width: 1920px;
+    height: 1024px;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFBEC;
+
+}
+#div-contact{
+    width: 1920px;
+    height: 1024px;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+
+}
+    
